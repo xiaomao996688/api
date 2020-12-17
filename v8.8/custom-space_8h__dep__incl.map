@@ -1,0 +1,12 @@
+<map id="include/cppgc/custom&#45;space.h" name="include/cppgc/custom&#45;space.h">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,344,47"/>
+<area shape="rect" id="node2" href="$allocation_8h.html" title=" " alt="" coords="61,95,232,121"/>
+<area shape="rect" id="node3" href="$visitor_8h.html" title=" " alt="" coords="194,266,345,293"/>
+<area shape="rect" id="node7" href="$heap_8h.html" title=" " alt="" coords="312,95,456,121"/>
+<area shape="rect" id="node4" href="$persistent_8h.html" title=" " alt="" coords="5,348,179,375"/>
+<area shape="rect" id="node5" href="$cross-thread-persistent_8h.html" title=" " alt="" coords="84,423,223,464"/>
+<area shape="rect" id="node6" href="$v8-cppgc_8h.html" title=" " alt="" coords="253,348,384,375"/>
+<area shape="rect" id="node8" href="$liveness-broker_8h.html" title=" " alt="" coords="307,169,461,211"/>
+<area shape="rect" id="node9" href="$prefinalizer-handler_8h.html" title=" " alt="" coords="423,259,571,300"/>
+<area shape="rect" id="node10" href="$prefinalizer_8h.html" title=" " alt="" coords="409,348,586,375"/>
+</map>

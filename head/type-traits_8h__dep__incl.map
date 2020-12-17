@@ -1,0 +1,21 @@
+<map id="include/cppgc/type&#45;traits.h" name="include/cppgc/type&#45;traits.h">
+<area shape="rect" id="node1" title=" " alt="" coords="294,5,424,47"/>
+<area shape="rect" id="node2" href="$trace-trait_8h.html" title=" " alt="" coords="370,95,505,136"/>
+<area shape="rect" id="node3" href="$garbage-collected_8h.html" title=" " alt="" coords="223,184,375,225"/>
+<area shape="rect" id="node5" href="$visitor_8h.html" title=" " alt="" coords="476,534,626,561"/>
+<area shape="rect" id="node6" href="$persistent_8h.html" title=" " alt="" coords="788,616,962,643"/>
+<area shape="rect" id="node13" href="$member_8h.html" title=" " alt="" coords="318,363,480,389"/>
+<area shape="rect" id="node19" href="$finalizer-trait_8h.html" title=" " alt="" coords="84,95,232,136"/>
+<area shape="rect" id="node9" href="$gc-info_8h.html" title=" " alt="" coords="50,184,198,225"/>
+<area shape="rect" id="node10" href="$persistent-node_8h.html" title=" " alt="" coords="941,527,1089,568"/>
+<area shape="rect" id="node11" href="$write-barrier_8h.html" title=" " alt="" coords="588,184,736,225"/>
+<area shape="rect" id="node15" href="$liveness-broker_8h.html" title=" " alt="" coords="84,437,239,479"/>
+<area shape="rect" id="node18" href="$heap-consistency_8h.html" title=" " alt="" coords="501,273,636,315"/>
+<area shape="rect" id="node4" href="$allocation_8h.html" title=" " alt="" coords="60,281,231,307"/>
+<area shape="rect" id="node7" href="$cross-thread-persistent_8h.html" title=" " alt="" coords="743,691,882,732"/>
+<area shape="rect" id="node8" href="$v8-cppgc_8h.html" title=" " alt="" coords="583,616,714,643"/>
+<area shape="rect" id="node12" href="$pointer-policies_8h.html" title=" " alt="" coords="712,273,860,315"/>
+<area shape="rect" id="node14" href="$ephemeron-pair_8h.html" title=" " alt="" coords="314,437,484,479"/>
+<area shape="rect" id="node16" href="$prefinalizer-handler_8h.html" title=" " alt="" coords="144,527,292,568"/>
+<area shape="rect" id="node17" href="$prefinalizer_8h.html" title=" " alt="" coords="73,616,250,643"/>
+</map>
